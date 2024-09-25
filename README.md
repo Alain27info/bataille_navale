@@ -10,14 +10,14 @@ Le projet comprend plusieurs fonctionnalités intéressantes, telles que la sél
 * Grille de jeu 6x6 : Le jeu se déroule sur une grille de 6x6, où les navires sont placés aléatoirement.
 * Attaque tour par tour : Le joueur et l'ordinateur jouent tour à tour. Le joueur entre les coordonnées d'attaque, et l'ordinateur attaque aléatoirement une position de la grille du joueur.
 * Victoire et défaite : Le jeu se termine lorsqu'un joueur touche tous les navires de son adversaire.
-* Niveaux de difficulté :
+* Niveaux de difficulté :  
   `* Facile : 10 tours maximum pour chaque joueur`  
   `* Moyen : 7 tours maximum`   
   `*Difficile : 5 tours maximum `  
 * Indicateurs visuels :   
     `* ~ :  Eau (zone non touchée) `  
     `* X : Navire touché `  
-    `*  O : Coup manqué `  
+    `* O : Coup manqué `  
 
 
 # Installation et utilisation
