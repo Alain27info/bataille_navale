@@ -4,7 +4,7 @@
 #define NUM_SHIPS 3  // Nombre de navires par joueur
 
 
-#define GRID_SIZE 6  // Taille de la grille augmentée à 10x10
+#define GRID_SIZE 6  // Taille de la grille à 6
 
 // Initialisation des grilles
 void initializeGrid(char grid[GRID_SIZE][GRID_SIZE]) {
