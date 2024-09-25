@@ -1,2 +1,2 @@
 # bataille_navale
-Battleshio game
+Battleship game
